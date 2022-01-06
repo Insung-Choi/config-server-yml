@@ -1,2 +1,2 @@
-
-hello-service.name: hello
+hello-service.name: service
+active.profile.name: service
